@@ -75,3 +75,16 @@
     * instanceof Operators: instanceof
     * new Operators: new
     * etc.
+
+## Type Casting
+* Type casting is when you assign a value of one primitive data type to another type.
+* There are two types of casting:
+    * Widening Casting (automatically): byte -> short -> char -> int -> long -> float -> double
+    * Narrowing Casting (manually): double -> float -> long -> int -> char -> short -> byte
+
+## Control Statements
+* Control statements are used to control the flow of execution in a program.
+* There are three types of control statements:
+    * Selection Statements: if, if-else, switch
+    * Iteration Statements: while, do-while, for, for-each
+    * Jump Statements: break, continue, return

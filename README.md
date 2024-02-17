@@ -41,4 +41,24 @@
     * variable name should not be matched with keywords.
     * variable name is case-sensitive.
 
-
+## Data Types
+* Data type is a classification of data, which can store a specific type of information.
+* There are two types of data types in Java:
+    * Primitive data types
+    * Non-primitive data types
+    * Primitive data types:
+    * byte: 1 byte
+    * short: 2 bytes
+    * int: 4 bytes
+    * long: 8 bytes
+    * float: 4 bytes
+    * double: 8 bytes
+    * char: 2 bytes
+    * boolean: 1 bit
+    * Non-primitive data types:
+    * String
+    * Array
+    * Class
+    * Interface
+    * etc.
+    * learn more java data types: https://oracle.com/java/technologies/javase-documentation.html

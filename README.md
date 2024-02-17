@@ -32,4 +32,13 @@
 * sc.close(): close the scanner object
 * learn  more about Scanner class: https://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html
 
+## Variables
+* variable is a container which holds the value while the java program is executed.
+* variable is a name of memory location.
+##  Rules for defining a variable:
+    * variable name must be start with alphabet or _ or $.
+    * after first letter, variable name can be a combination of letters, digits, _ and $.
+    * variable name should not be matched with keywords.
+    * variable name is case-sensitive.
+
 

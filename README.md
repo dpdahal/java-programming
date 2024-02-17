@@ -22,4 +22,14 @@
 * Input: Scanner sc = new Scanner(System.in);
 * sc.next(): get only one word without space
 * sc.nextLine(): get whole line with space
+* sc.nextInt(): get integer value
+* sc.nextFloat(): get float value
+* sc.nextDouble(): get double value
+* sc.nextBoolean(): get boolean value
+* sc.nextByte(): get byte value
+* sc.nextShort(): get short value
+* sc.nextLong(): get long value
+* sc.close(): close the scanner object
+* learn  more about Scanner class: https://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html
+
 

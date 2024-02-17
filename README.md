@@ -16,3 +16,10 @@
 9. High Performance
 10. Multithreaded
 11. Distributed
+
+## Input and Output
+* Output: System.out.println("Hello World");
+* Input: Scanner sc = new Scanner(System.in);
+* sc.next(): get only one word without space
+* sc.nextLine(): get whole line with space
+

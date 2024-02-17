@@ -62,3 +62,16 @@
         * Interface
         * etc.
 * learn more java data types: https://oracle.com/java/technologies/javase-documentation.html
+
+## Operators
+* Operators are special symbols that perform specific operations on one, two, or three operands, and then return a result.
+* There are many types of operators in Java:
+    * Arithmetic Operators: +, -, *, /, %, ++, --
+    * Assignment Operators: =, +=, -=, *=, /=, %=
+    * Comparison Operators: ==, !=, >, <, >=, <=
+    * Logical Operators: &&, ||, !
+    * Bitwise Operators: &, |, ^, ~, <<, >>, >>>
+    * Ternary Operators: ?:
+    * instanceof Operators: instanceof
+    * new Operators: new
+    * etc.
